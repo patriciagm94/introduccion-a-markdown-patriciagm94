@@ -13,3 +13,20 @@ Asistí a la **Escuela Secundaria Técnica #44**, donde además de concluir mi e
 Mi educación media superior la lleve a cabo en el **Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California (CECYTE)**. Egresando como _Técnico Programador de Software_. __Periodo: 2009-2012.__
 Actualmente estoy por concluir mis estudios superiores en el *__Instituto Tecnológico de Mexicali__* en la carrera de _Ingeniería en Sistemas Computacionales_. **Periodo: Agosto/2012 - Presente**
 ---
+####H4 Experiencia Profesional
+---
++Colaborador en Proyectos conjuntos de Software: Creación de sistemas *ABC* básicos.  __2016__
++Encargada de establecimiento. __2014__
++Ayudante de personal en Depto. de Archivo de REPSS. __2011__
+
+---
+#####H5 Conocimiento de Lenguajes de Programación
+---
+En mis experiencias tanto escolares, como profesionales he trabajado y manipulado los siguientes lenguajes de programación:
+ * Java
+ * C/C++
+ * PHP
+ * Python
+ * .NET
+ * Javascript
+ ---
