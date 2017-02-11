@@ -30,3 +30,18 @@ En mis experiencias tanto escolares, como profesionales he trabajado y manipulad
  * .NET
  * Javascript
  ---
+ ####H4 Conocimientos Adicionales.
+---
+He trabajado con distintos IDEs para crear software para plataformas tanto de escritorio como móviles. Algunos de éstos son:
+-Eclipse/NetBeans
+-Android Studio
+-Symfony
+-Visual Studio
+
+En el área de los **Sistemas Operativos** he utilizado:
++ Microsoft Windows
++ Linux Ubuntu
++ Linux Debian
+
+Anexo el link de mis repositorios en [GitHub](https://github.com/patriciagm94 "GitHub Profile")
+ Mis intereses profesionales son orientados al desarrollo de aplicaciones móviles, así como también el desarrollo de software para alcanzar el puesto de *Analísta de Sistemas*. O bien que mis conocimientos y aptitudes me permitan dirigir mi propia empresa de desarrollo de software.
